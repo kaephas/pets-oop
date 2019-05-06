@@ -13,7 +13,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 //require autoload file
-require_once('vendor/autoload.php');
+require_once 'vendor/autoload.php';
 
 session_start();
 
